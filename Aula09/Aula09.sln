@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfism
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverrideVsNew", "OverrideVsNew\OverrideVsNew.csproj", "{29F29E7F-C5D1-4E50-8E1E-6867A1577A41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnits", "GameUnits\GameUnits.csproj", "{1B5DF187-AE9B-4802-B430-EC843C0FF202}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{29F29E7F-C5D1-4E50-8E1E-6867A1577A41}.Release|x64.Build.0 = Release|Any CPU
 		{29F29E7F-C5D1-4E50-8E1E-6867A1577A41}.Release|x86.ActiveCfg = Release|Any CPU
 		{29F29E7F-C5D1-4E50-8E1E-6867A1577A41}.Release|x86.Build.0 = Release|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Debug|x64.Build.0 = Debug|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Debug|x86.Build.0 = Debug|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Release|x64.ActiveCfg = Release|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Release|x64.Build.0 = Release|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Release|x86.ActiveCfg = Release|Any CPU
+		{1B5DF187-AE9B-4802-B430-EC843C0FF202}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
